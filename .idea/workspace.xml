@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbf5a02-2f46-45e9-9332-515f77d75fbc" name="Changes" comment="Finsih" />
+    <list default="true" id="0dbf5a02-2f46-45e9-9332-515f77d75fbc" name="Changes" comment="add Readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +30,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/luan/Workspaces/oscar/Desafio_Logica",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -36,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664467940027</updated>
       <workItem from="1664467941232" duration="29000" />
-      <workItem from="1664468007342" duration="206000" />
+      <workItem from="1664468007342" duration="2424000" />
     </task>
     <task id="LOCAL-00001" summary="Finsih">
       <created>1664468039154</created>
@@ -45,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664468039154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Readme">
+      <created>1664468258491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664468258491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finsih" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finsih" />
+    <MESSAGE value="add Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Readme" />
   </component>
 </project>
